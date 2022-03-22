@@ -1,2 +1,2 @@
-# hamz-demo-dash
-4. sem demo af deploy github dash app to azure
+# kea_dash_fakedata
+Demo af Dash med data fra en Excel fil - Deploy på Azure
